@@ -33,7 +33,8 @@ Here's a broad description of the cryptography techniques given
  - [ ] 5. Elliptic Curve Cryptosystem
  
  # How to use?
- Simply clone this repository, switch to the folder and run from the terminal by typing:
+ Clone the repository and you can use the symmteric_crypto class in your script.                                  
+ You can directly run the RSA and Knapsack crypto algorithms by typing:
  ``` 
  python <name_of_the_file>.py
  ```

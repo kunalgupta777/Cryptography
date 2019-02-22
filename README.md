@@ -2,7 +2,7 @@
 Python Implementation for some cryptographic algorithms                 
 Here's a broad description of the cryptography techniques given
 ## Symmetric Key  Cryptography Techniques ##
- - 1 **Substitution ( each character is substituted with another, can be a different space than the plaintext ) **
+ - [x] 1 **Substitution ( each character is substituted with another, can be a different space than the plaintext )**
  
    - [x] 1.1 Monalphabetic ( every character is substituted to the same character, no matter the position )
      - [x] 1.1.1 Additive Cipher ( aka Shift, Caesar )
@@ -17,9 +17,9 @@ Here's a broad description of the cryptography techniques given
      - [ ] 1.2.4 Hill Cipher
      - [ ] 1.2.5 Rotor Cipher
      
- - [ ] 2 **Transpostion ( The orders of the characters is interchanged ) **
-   - [ ] 2.1 Keyless Transposition
-   - [ ] 2.2 Keyed Transposition
+ - [ ] 2 **Transpostion ( The orders of the characters is interchanged )**
+     - [ ] 2.1 Keyless Transposition
+     - [ ] 2.2 Keyed Transposition
    
  - [ ] 3 **Modern Symmetric Ciphers**
      - [ ] 3.1 Data Encryption Standard ( DES )

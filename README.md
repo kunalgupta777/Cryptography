@@ -2,7 +2,7 @@
 Python Implementation for some cryptographic algorithms                 
 Here's a broad description of the cryptography techniques given
 ## Symmetric Key  Cryptography Techniques ##
- - [x] 1 **Substitution ( each character is substituted with another, can be a different space than the plaintext )**
+ - [ ] 1 **Substitution ( each character is substituted with another, can be a different space than the plaintext )**
  
    - [x] 1.1 Monalphabetic ( every character is substituted to the same character, no matter the position )
      - [x] 1.1.1 Additive Cipher ( aka Shift, Caesar )
@@ -26,11 +26,11 @@ Here's a broad description of the cryptography techniques given
      - [ ] 3.2 Advanced Encryption Standard ( AES )
    
 ## Asymmetric Key (Public Key) Cryptography Techniques ##
- - [ ] 1. Rivest, Shamir, Adleman ( RSA ) Cryptosystem
- - [x] 2. Rabin Cryptosystem
+ - [x] 1. Rivest, Shamir, Adleman ( RSA ) Cryptosystem
+ - [ ] 2. Rabin Cryptosystem
  - [x] 3. Merkle-Hellman Knapsack Cryptosystem
- - [x] 4. El-Gamal Cryptosystem
- - [x] 5. Elliptic Curve Cryptosystem
+ - [ ] 4. El-Gamal Cryptosystem
+ - [ ] 5. Elliptic Curve Cryptosystem
  
  # How to use?
  Simply clone this repository, switch to the folder and run from the terminal by typing:

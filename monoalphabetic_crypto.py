@@ -1,7 +1,7 @@
 import random
 import math
 
-class Crypto:
+class MonoalphabeticCrypto:
     default_key1 = None
     default_key2 = None
     def __init__(self):

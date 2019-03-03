@@ -8,14 +8,12 @@ Here's a broad description of the cryptography techniques given
      - [x] 1.1.1 Additive Cipher ( aka Shift, Caesar )
      - [x] 1.1.2 Multiplicative Cipher
      - [x] 1.1.3 Affine Cipher
-     - [x] 1.1.4 Monoalphabetic Substituion using Mapping
      
-   - [ ] 1.2 Polyalphabetic Cipher ( the value of the substituted character depends on both its value and it's position )
-     - [ ] 1.2.1 Autokey Cipher
-     - [ ] 1.2.2 Playfair Cipher
-     - [ ] 1.2.3 Vignere Cipher
-     - [ ] 1.2.4 Hill Cipher
-     - [ ] 1.2.5 Rotor Cipher
+   - [x] 1.2 Polyalphabetic Cipher ( the value of the substituted character depends on both its value and it's position )
+     - [x] 1.2.1 Autokey Cipher
+     - [x] 1.2.2 Playfair Cipher
+     - [x] 1.2.3 Vignere Cipher
+     - [x] 1.2.4 Hill Cipher
      
  - [ ] 2 **Transpostion ( The orders of the characters is interchanged )**
      - [ ] 2.1 Keyless Transposition
